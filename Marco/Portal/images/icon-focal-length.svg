@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/camera-focal-length</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="16 0 0 9 16 19"></polygon>
+        <path d="M3.5,11.8660254 L3,11 L18.5884573,2 L19.5884573,3.73205081 L5.5,11.8660254 L19.5884573,20 L18.5884573,21.7320508 L3,12.7320508 L3.5,11.8660254 Z" id="path-3"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/camera-focal-length">
+            <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+            <g id="colors/gray-04"></g>
+            <g id="Fill-4-Copy" transform="translate(4.000000, 3.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <path d="M7.00052333,3 C3.6867745,3 1,5.68642042 1,9 C1,12.3137986 3.68620861,15 7.00052333,15 C10.3137646,15 13,12.3135638 13,9 C13,5.68627071 10.3138608,3 7.00052333,3 Z M7.00052333,2 C10.8660661,2 14,5.13390654 14,9 C14,12.8658318 10.8660661,16 7.00052333,16 C3.13367225,16 0,12.8658318 0,9 C0,5.13390654 3.1347189,2 7.00052333,2 Z" fill="#767676" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            </g>
+            <g id="Combined-Shape">
+                <use fill="#767676" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <path stroke="#FFFFFF" stroke-width="1" d="M2.92264973,11.8660254 L2.5669873,12.4820508 L2.3169873,12.9150635 L2.75,13.1650635 L18.3384573,22.1650635 L18.77147,22.4150635 L19.02147,21.9820508 L20.02147,20.25 L20.27147,19.8169873 L19.8384573,19.5669873 L6.5,11.8660254 L19.8384573,4.16506351 L20.27147,3.91506351 L20.02147,3.48205081 L19.02147,1.75 L18.77147,1.3169873 L18.3384573,1.5669873 L2.75,10.5669873 L2.3169873,10.8169873 L2.5669873,11.25 L2.92264973,11.8660254 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

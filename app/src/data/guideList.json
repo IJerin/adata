@@ -1,0 +1,1328 @@
+{
+  "guides": [
+    {
+      "id": 1,
+      "key": "sf-1",
+      "title": "Discover San Francisco",
+      "description": "Unique and iconic photography locations in the City by the Bay.",
+      "location": {
+        "city": "San Francisco",
+        "state": "California",
+        "stateShort": "CA",
+        "country": "USA"
+      },
+      "author": {
+        "title": "@marcoolson",
+        "subtitle": "Marco Olson",
+        "key": "author-1"
+      },
+      "markers": [
+        {
+          "id": 1,
+          "title": "Bay Bridge & SF",
+          "subtitle": "from Treasure Island Rd",
+          "imageKey": "img-1",
+          "lat": 37.81024,
+          "long": -122.37151,
+          "entranceFeeInDollars": 0,
+          "description": "Head over to Treasure Island to capture the San Francisco skyline and the Bay Bridge. This is one of my favorite perspectives of San Francisco. It requires a bit of a trek, you'll need to park at X and hike up to Z to find this view but it's worth the effort. My favorite time to shoot is this spot is at night because the Bay Bridge lights up and the city lights sparkle.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.815722,
+            "long": -122.371592,
+            "details": "Adventure at your own risk. This is somewhat of a dangerous walk from the parking area to the actual shooting location. From the parking area, walk south along Treasure Island Rd. There is a small trail on the right side of the road that takes you right to this spot."
+          },
+          "months": {
+            "recommended": [11, 12, 1],
+            "details": "The winter sun sets directly behind the city skyline."
+          },
+          "times": {
+            "selected": 240
+          },
+          "equipment": {
+            "camera": "Canon 5D Mark iii",
+            "lens": "EF 24-105mm f/4L IS USM",
+            "tripod": "Manfrotto 190PRO w/ Manfrotto 229PRO head"
+          },
+          "exposure": {
+            "shutterSpeed": "3 sec",
+            "aperture": "f/8",
+            "iso": 100,
+            "focalLengthInMm": 105
+          }
+        },
+        {
+          "id": 2,
+          "title": "Twin Peaks Blvd & SF",
+          "subtitle": "from Twin Peaks",
+          "imageKey": "img-2",
+          "lat": 37.75498,
+          "long": -122.44662,
+          "entranceFeeInDollars": 0,
+          "description": "Twin Peaks is a really fun location to shoot both day and night. During the day, you can clearly see Market Street and spot all the buildings in downtown, like the Transamerica Pyramid and the Salesforce Tower. At night, it's a great place to play around with long exposures as cars drive up and down the windy road. You can park at the parking lot and easily find this shot from there.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.754625,
+            "long": -122.446414,
+            "details": ""
+          },
+          "months": {
+            "recommended": [5, 6, 7],
+            "details": "The summer sun rises directly behind the city skyline."
+          },
+          "times": {
+            "selected": 135
+          },
+          "equipment": {
+            "camera": "Canon 5D Mark iii",
+            "lens": "EF 24-105mm f/4L IS USM"
+          },
+          "exposure": {
+            "shutterSpeed": "1/200 sec",
+            "aperture": "f/11",
+            "iso": 100,
+            "focalLengthInMm": 32
+          }
+        },
+        {
+          "id": 3,
+          "title": "Sutro Baths",
+          "subtitle": "from Sutro Baths",
+          "imageKey": "img-3",
+          "lat": 37.78081,
+          "long": -122.51375,
+          "entranceFeeInDollars": 0,
+          "description": "The Sutro Baths were once the largest indoor swimming pools in the world. But, after a fire in 1966 all that remains is the concrete skeleton of facility. My favorite time to shoot here is during he PM golden hour. There are many other photo oportunities in the area, such as Seal Rocks and Lands End.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.780354,
+            "long": -122.510580,
+            "details": ""
+          },
+          "months": {
+            "recommended": [11, 12, 1],
+            "details": "The winter sun sets behind the baths and Seal Rocks."
+          },
+          "times": {
+            "selected": 240
+          },
+          "equipment": {
+            "camera": "Canon 5D Mark iii",
+            "lens": "EF 24-105mm f/4L IS USM"
+          },
+          "exposure": {
+            "shutterSpeed": "1/250 sec",
+            "aperture": "f/11",
+            "iso": 100,
+            "focalLengthInMm": 24
+          }
+        },
+        {
+          "id": 4,
+          "title": "Lombard Street",
+          "subtitle": "from Hyde St",
+          "imageKey": "img-4",
+          "lat": 37.80207,
+          "long": -122.41961,
+          "entranceFeeInDollars": 0,
+          "description": "Possibly the most famous street in the world, Lombard Street is also one of the most visited attractions in San Francisco. So be prepared to wait in line for a good photo spot. My favorite spot to shoot is standing on the cement ledge by the stairs on the left side of the street.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.801537,
+            "long": -122.419543,
+            "details": "Parking is tricky in this part of town. But there is free street parking on Hyde St."
+          },
+          "months": {
+            "recommended": [3, 4],
+            "details": "The sun rises behind Bay Bridge around the beginning of March, and directly behind Coit Tower around the 31st of March."
+          },
+          "times": {
+            "selected": 135
+          },
+          "equipment": {
+            "camera": "Canon 5D Mark iii",
+            "lens": "EF 24-105mm f/4L IS USM",
+            "tripod": "Manfrotto 190PRO with Manfrotto 229PRO head"
+          },
+          "exposure": {
+            "shutterSpeed": "20 sec",
+            "aperture": "f/11",
+            "iso": 100,
+            "focalLengthInMm": 24
+          }
+        },
+        {
+          "id": 5,
+          "title": "Golden Gate Bridge",
+          "subtitle": "from Fort Point",
+          "imageKey": "img-5",
+          "lat": 37.81072,
+          "long": -122.4765,
+          "entranceFeeInDollars": 0,
+          "description": "Fort point has so many great photo opportunities, but my favorite spot to shoot from is from the rocks to the east of the fort. It's a great spot to capture waves crashing in front of the bridge. This is also a good spot to photograph people surfing under the bridge.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.810264,
+            "long": -122.476475,
+            "details": ""
+          },
+          "months": {
+            "recommended": [11, 12, 1],
+            "details": "The winter sunset golden hours light up the South Tower of the Golden Gate Bridge beautifully."
+          },
+          "times": {
+            "selected": 240
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "AF-P DX 18-55mm f/3.5-5.6G VR"
+          },
+          "exposure": {
+            "shutterSpeed": "1/1000 sec",
+            "aperture": "f/5",
+            "iso": 100,
+            "focalLengthInMm": 18
+          }
+        },
+        {
+          "id": 6,
+          "title": "San Francisco Sunrise",
+          "subtitle": "from Ina Coolbrith",
+          "imageKey": "img-6",
+          "lat": 37.79842,
+          "long": -122.41356,
+          "entranceFeeInDollars": 0,
+          "description": "Ina Coolbrith Park has amazing views of the San Francisco skyline. You can capture beautiful shots any time of day, but my favorite time to shoot here is during the sunrise and morning golden hour as the run rises behind the Bay Bridge and Financial District.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.798934,
+            "long": -122.413658,
+            "details": "Parking is tricky in this part of town. But I always start looking on Green St."
+          },
+          "months": {
+            "recommended": [2, 3, 4],
+            "details": "The sun rises directly above the Transamerica Pyramid around the 5th of February, and continues to rise behind the city skyline and Bay Bridge until around the beginning of April."
+          },
+          "times": {
+            "selected": 135
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "AF-P DX 18-55mm f/3.5-5.6G VR",
+            "tripod": "Manfrotto 190PRO w/ Manfrotto 229PRO head"
+          },
+          "exposure": {
+            "shutterSpeed": "1/13 sec",
+            "aperture": "f/22",
+            "iso": 100,
+            "focalLengthInMm": 18
+          }
+        },
+        {
+          "id": 7,
+          "title": "California St",
+          "subtitle": "from Grant St",
+          "imageKey": "img-7",
+          "lat": 37.7924,
+          "long": -122.40645,
+          "entranceFeeInDollars": 0,
+          "description": "California Street is a great spot to photograph the cable cars and their cascading tracks. The street also coincidentally lines up perfectly with one of the Bay Bridge towers.",
+          "months": {
+            "recommended": [3, 4, 5],
+            "details": "The sun rises directly above the bridge around the 7th of April."
+          },
+          "times": {
+            "selected": 135
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "AF-P DX 18-55mm f/3.5-5.6G VR"
+          },
+          "exposure": {
+            "shutterSpeed": "1/160 sec",
+            "aperture": "f/4.5",
+            "iso": 100,
+            "focalLengthInMm": 30
+          }
+        },
+        {
+          "id": 8,
+          "title": "Seal Rocks",
+          "subtitle": "from Sutro Baths",
+          "imageKey": "img-8",
+          "lat": 37.77954,
+          "long": -122.51443,
+          "entranceFeeInDollars": 0,
+          "description": "Seal Rocks is a group of small rock formation islands in the Lands End area of the Outer Richmond District. They are located just offshore, near the Cliff House and the Sutro Baths ruins. This is a great spot for long exposures of the tides receding around the rocks.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.780354,
+            "long": -122.510580,
+            "details": ""
+          },
+          "months": {
+            "recommended": [10, 11, 12, 1, 2, 3, 4],
+            "details": "The sun sets directly behind Seal Rocks during these months."
+          },
+          "times": {
+            "selected": 240
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "AF-P DX 18-55mm f/3.5-5.6G VR",
+            "filter": "Variable ND Filters",
+            "tripod": "Manfrotto 190PRO w/ Manfrotto 229PRO head"
+          },
+          "exposure": {
+            "shutterSpeed": "3 sec",
+            "aperture": "f/22",
+            "iso": 100,
+            "focalLengthInMm": 18
+          }
+        },
+        {
+          "id": 9,
+          "title": "Pier 14",
+          "subtitle": "from Pier 14",
+          "imageKey": "img-9",
+          "lat": 37.7945,
+          "long": -122.38974,
+          "entranceFeeInDollars": 0,
+          "description": "As opposed to Pier 7, Pier 14 has a much more modern appearance, and also coincidentally lines up nicely with one of the cities newest landmarks, the Salesforce Tower.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.796650,
+            "long": -122.397080,
+            "details": "Whenever I plan on shooting around the piers, Ferry Building, or Embaracadero Center I can usually find a metered spot to park in this area."
+          },
+          "months": {
+            "recommended": [11, 12, 1],
+            "details": "The winter sun sets behind the city skyline, and lines up perfectly with the pier around the 21st of December."
+          },
+          "times": {
+            "selected": 240
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "AF-P DX 18-55mm f/3.5-5.6G VR",
+            "tripod": "Manfrotto 190PRO w/ Manfrotto 229PRO head"
+          },
+          "exposure": {
+            "shutterSpeed": "4.5 sec",
+            "aperture": "f/4.5",
+            "iso": 100,
+            "focalLengthInMm": 18
+          }
+        },
+        {
+          "id": 10,
+          "title": "Bay Bridge & SF",
+          "subtitle": "from Ina Coolbrith",
+          "imageKey": "img-10",
+          "lat": 37.79833,
+          "long": -122.41348,
+          "entranceFeeInDollars": 0,
+          "description": "Ina Coolbrith Park has amazing wide angle views of the San Francisco skyline. But you can also capture some nicely cropped compositions using a telephoto lens. I love shooting long exposures here at night and allowing the car to paint their lights as they drive down the streets.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.798934,
+            "long": -122.413658,
+            "details": "Parking is tricky in this part of town. But I always start looking on Green St."
+          },
+          "months": {
+            "recommended": [3, 4, 5],
+            "details": "The sun rises directly above the Bay Bridge tower around the 12th of April."
+          },
+          "times": {
+            "selected": 240
+          },
+          "equipment": {
+            "camera": "CNikon D3200",
+            "lens": "55-200mm f/4-5.6G ED IF AF-S DX VR",
+            "tripod": "Manfrotto 190PRO w/ Manfrotto 229PRO head"
+          },
+          "exposure": {
+            "shutterSpeed": "30 sec",
+            "aperture": "f/20",
+            "iso": 100,
+            "focalLengthInMm": 100
+          }
+        },
+        {
+          "id": 11,
+          "title": "Inside Fort Point",
+          "subtitle": "from Fort Point",
+          "imageKey": "img-11",
+          "lat": 37.81063,
+          "long": -122.47701,
+          "entranceFeeInDollars": 0,
+          "closingTime": {
+            "hours": 17,
+            "minutes": 0,
+            "notes": "(Fri-Sun)"
+          },
+          "description": "The southern arch of the Golden Gate Bridge was specifically designed to preserver the historic Fort Point. You can get amazing views of the fort and arch with a wide angle lens from the inside of the fort.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.810264,
+            "long": -122.476475,
+            "details": ""
+          },
+          "months": {
+            "recommended": [2, 3, 4],
+            "details": "You can see the sun setting under the arch between February and April."
+          },
+          "times": {
+            "selected": 16
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "Tokina AT-X 116 PRO DX-II 11-16mm f/2.8"
+          },
+          "exposure": {
+            "shutterSpeed": "1/100 sec",
+            "aperture": "f/11",
+            "iso": 100,
+            "focalLengthInMm": 11
+          }
+        },
+        {
+          "id": 12,
+          "title": "Lombard Street",
+          "subtitle": "from Grant Ave",
+          "imageKey": "img-12",
+          "lat": 37.80345,
+          "long": -122.40817,
+          "entranceFeeInDollars": 0,
+          "description": "You might know Lombard Street as the windiest street in the world. Actually, that honor belongs to another San Francisco street, Vermont Street on Potrero Hill. But Lombard is without a doubt more picturesque and a can't-miss attraction in San Francisco. I love shooting long exposure light paintings as the cars drive down the street. I’ve found the best spot to shoot is from Grant Ave with at least a 200mm telephoto lens.",
+          "months": {
+            "recommended": [2, 3, 4],
+            "details": "The sunset lines up perfectly with Lombard Street around the 27th of February."
+          },
+          "times": {
+            "selected": 240
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "55-200mm f/4-5.6G ED IF AF-S DX VR",
+            "tripod": "Manfrotto 190PRO w/ Manfrotto 229PRO head"
+          },
+          "exposure": {
+            "shutterSpeed": "30 sec",
+            "aperture": "f/11",
+            "iso": 100,
+            "focalLengthInMm": 200
+          }
+        },
+        {
+          "id": 13,
+          "title": "Goldie and the Trees",
+          "subtitle": "from Golden Gate Overlook",
+          "imageKey": "img-13",
+          "lat": 37.80387,
+          "long": -122.47668,
+          "entranceFeeInDollars": 0,
+          "description": "From the Golden Gate Overlook, near Battery Godfrey, you can line up directly with the bridge while framing it with the surrounding Cypress trees. It’s also great when Karl the Fog rolls in and takes over the bay.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.803883,
+            "long": -122.476637,
+            "details": ""
+          },
+          "months": {
+            "recommended": [11, 12, 1],
+            "details": "The winter sunset golden hours light up the towers of the Golden Gate Bridge beautifully."
+          },
+          "times": {
+            "selected": 240
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "AF-P DX 18-55mm f/3.5-5.6G VR",
+            "tripod": "Manfrotto 190PRO w/ Manfrotto 229PRO head"
+          },
+          "exposure": {
+            "shutterSpeed": "3 sec",
+            "aperture": "f/18",
+            "iso": 100,
+            "focalLengthInMm": 22
+          }
+        },
+        {
+          "id": 14,
+          "title": "National Marine Sactuary",
+          "subtitle": "from Crissy Field",
+          "imageKey": "img-14",
+          "lat": 37.80478,
+          "long": -122.467,
+          "entranceFeeInDollars": 0,
+          "description": "Crissy Field is a great spot to frame the South Tower of the Golden Gate Bridge with the surrounding palm trees. And the red roofs of the Greater Farallones National Marine Sanctuary complement the iconic Golden Gate Bridge.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.806475,
+            "long": -122.469535
+          },
+          "months": {
+            "recommended": [11, 12, 1, 5, 6, 7],
+            "details": "The winter sunset golden hours light up the South Tower of the Golden Gate Bridge beautifully. And the summer sun sets almost directly behind the bridge tower."
+          },
+          "times": {
+            "selected": 48
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "AF-P DX 18-55mm f/3.5-5.6G VR"
+          },
+          "exposure": {
+            "shutterSpeed": "1/250 sec",
+            "aperture": "f/11",
+            "iso": 100,
+            "focalLengthInMm": 44
+          }
+        },
+        {
+          "id": 15,
+          "title": "Ferry Building Tower",
+          "subtitle": "from Embarcadero",
+          "imageKey": "img-15",
+          "lat": 37.79477,
+          "long": -122.39465,
+          "entranceFeeInDollars": 0,
+          "description": "While most people recognize the Ferry Building, it's a less known fact that the clock tower was designed after the 12th century Giralda Bell tower in Seville, Spain. Come here to snap a photo and then people watch. On Saturdays, there's a farmers market and during the week, you'll see commuters flowing into the city from the ferries.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.796650,
+            "long": -122.397080,
+            "details": "Whenever I plan on shooting around the piers, Ferry Building, or Embaracadero Center I can usually find a metered spot to park in this area."
+          },
+          "months": {
+            "recommended": [5, 6, 7],
+            "details": "The summer sunset golden hours light up the Ferry Building click tower beautifully."
+          },
+          "times": {
+            "selected": 48
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "AF-P DX 18-55mm f/3.5-5.6G VR"
+          },
+          "exposure": {
+            "shutterSpeed": "1/160 sec",
+            "aperture": "f/8",
+            "iso": 100,
+            "focalLengthInMm": 48
+          }
+        },
+        {
+          "id": 16,
+          "title": "Golden Gate Bridge",
+          "subtitle": "from Baker Beach",
+          "imageKey": "img-16",
+          "lat": 37.79771,
+          "long": -122.48194,
+          "entranceFeeInDollars": 0,
+          "description": "Head down to Baker Beach for a slightly different angle on the Golden Gate Bridge. You're likely to find yourself accompanied by other photographers or perhaps a workshop. You might also need to crop nude beachgoers out of your composition! This vantage point faces northeast, so a winter sunset could produce an incredible image. After you get your perfect exposure, be sure to see what else The Presidio has to offer. It is a San Francisco treasure.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.796258,
+            "long": -122.479622,
+            "details": ""
+          },
+          "months": {
+            "recommended": [11, 12, 1],
+            "details": "The winter sunset golden hours light up the towers of the Golden Gate Bridge beautifully."
+          },
+          "times": {
+            "selected": 240
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "AF-P DX 18-55mm f/3.5-5.6G VR"
+          },
+          "exposure": {
+            "shutterSpeed": "2 sec",
+            "aperture": "f/11",
+            "iso": 100,
+            "focalLengthInMm": 55
+          }
+        },
+        {
+          "id": 17,
+          "title": "Pier 7",
+          "subtitle": "from Pier 7",
+          "imageKey": "img-17",
+          "lat": 37.799389,
+          "long": -122.395594,
+          "entranceFeeInDollars": 0,
+          "description": "As opposed to Pier 14, Pier 7 has a much more classic wooden boardwalk appearance. It also coincidentally lines up perfectly with one of the cities most iconic landmarks, the Transamerica Pyramid.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.796650,
+            "long": -122.397080,
+            "details": "Whenever I plan on shooting around the piers, Ferry Building, or Embaracadero Center I can usually find a metered spot to park in this area."
+          },
+          "months": {
+            "recommended": [11, 12, 1],
+            "details": "The winter sun sets behind the city skyline, and lines up perfectly with the pier around the 21st of December."
+          },
+          "times": {
+            "selected": 240
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "EAF-P DX 18-55mm f/3.5-5.6G VR"
+          },
+          "exposure": {
+            "shutterSpeed": "1/125 sec",
+            "aperture": "f/4.5",
+            "iso": 100,
+            "focalLengthInMm": 22
+          }
+        },
+        {
+          "id": 18,
+          "title": "Embarcadero Lotus",
+          "subtitle": "from 4 Embarcadero",
+          "imageKey": "img-18",
+          "lat": 37.79504,
+          "long": -122.39614,
+          "entranceFeeInDollars": 0,
+          "description": "There's something magnetic about the art at the Embarcadero that I can't explain, but I never get tired of looking at it. There are sculptures peppered throughout the center, so make sure to explore. The Tulip you see here can be captured from many creative angles. It is located in Building 4 of the center, directly across the plaza from the Ferry Building.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.794861,
+            "long": -122.396580,
+            "details": "Whenever I plan on shooting around the piers, Ferry Building, or Embaracadero Center I can usually find a metered spot to park in this area."
+          },
+          "times": {
+            "selected": 192
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "Tokina AT-X 116 PRO DX-II 11-16mm f/2.8"
+          },
+          "exposure": {
+            "shutterSpeed": "1/100 sec",
+            "aperture": "f/2.8",
+            "iso": 100,
+            "focalLengthInMm": 11
+          }
+        },
+        {
+          "id": 19,
+          "title": "Palace Reflections",
+          "subtitle": "from the Palace of Fine Arts",
+          "imageKey": "img-19",
+          "lat": 37.80308,
+          "long": -122.44718,
+          "entranceFeeInDollars": 0,
+          "description": "The Palace of Fine Arts is a must-see on the north side of the city, and short walk from the trendy and affluent Marina commercial district. The vantage point for this shot-over-the-lagoon faces west, so your best bet for reflections framed by a vivid sky is in the PM golden hour. Winds can whip up quite strongly through the Marina, so be sure to check the wind forecasts to get the best water reflections on a calm day.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.804138,
+            "long": -122.447154,
+            "details": "Parking can sometimes be tricky in this area. But I can usually find a spot to park along Baker St., right in front of the Palace."
+          },
+          "months": {
+            "recommended": [2, 3, 4],
+            "details": "The sunset lines up perfectly with Lombard Street around the 27th of February."
+          },
+          "times": {
+            "selected": 240
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "Tokina AT-X 116 PRO DX-II 11-16mm f/2.8"
+          },
+          "exposure": {
+            "shutterSpeed": "20 sec",
+            "aperture": "f/20",
+            "iso": 100,
+            "focalLengthInMm": 11
+          }
+        },
+        {
+          "id": 20,
+          "title": "Golden Gate Bridge",
+          "subtitle": "from Battery Spencer",
+          "imageKey": "img-20",
+          "lat": 37.827495,
+          "long": -122.481651,
+          "entranceFeeInDollars": 0,
+          "description": "This is perhaps the most popular view of the Golden Gate Bridge. You can't go wrong any time of day here. But for a truly special shot, try to get it when the fog is coming in low over the road deck, with the tower rising above. Catching this unique San Francisco weather with the tower lights casting a dreamy flood is a bucket list shot for any cityscape lover. Parking on Conzelman Road can be very difficult in high tourist season, so try the early morning hours or weekdays, or hike up from Fort Baker.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.829655,
+            "long": -122.483425,
+            "details": ""
+          },
+          "months": {
+            "recommended": [11, 12, 1, 2, 5, 6, 7],
+            "details": "The sun rises behind the San Francisco skyline between November and February. And the sunsets aren't too shaby during the winter months, when the golden hour lights up the towers of the Golden Gate Bridge."
+          },
+          "times": {
+            "selected": 135
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "AF-P DX 18-55mm f/3.5-5.6G VR",
+            "tripod": "Manfrotto 190PRO w/ Manfrotto 229PRO head"
+          },
+          "exposure": {
+            "shutterSpeed": "5 sec",
+            "aperture": "f/3.5",
+            "iso": 100,
+            "focalLengthInMm": 18
+          }
+        },
+        {
+          "id": 21,
+          "title": "16th Ave Tiled Steps",
+          "subtitle": "from 16th Ave",
+          "imageKey": "img-21",
+          "lat": 37.75625,
+          "long": -122.4736,
+          "entranceFeeInDollars": 0,
+          "description": "This is a perfect location for your new profile photo. The mosaic was installed in 2003 and has quickly become part of the artistic fabric that is San Francisco. They're located in the charming and slightly off-the-beaten-path Golden Gate Heights/Forest Knolls neighborhoods, where you might just find many more unique perspectives. When you're done, head over to Irving Street for many choices of food and drink.",
+          "months": {
+            "recommended": [8, 9, 10],
+            "details": "The sunrise lines up perfectly with the stairs around the 18th of September. And the sunset lines up perfectly with the stairs around the 30th of September."
+          },
+          "times": {
+            "selected": 34
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "AF-P DX 18-55mm f/3.5-5.6G VR"
+          },
+          "exposure": {
+            "shutterSpeed": "1/200 sec",
+            "aperture": "f/6.3",
+            "iso": 100,
+            "focalLengthInMm": 18
+          }
+        },
+        {
+          "id": 22,
+          "title": "South Peak",
+          "subtitle": "from North Peak (Twin Peaks)",
+          "imageKey": "img-22",
+          "lat": 37.75333,
+          "long": -122.44748,
+          "entranceFeeInDollars": 0,
+          "description": "Day or night, this is an epic spot to get some amazing images. Try a long exposure, a foggy night, or daytime like you see here. There is parking on the ring roads as well as the east-facing scenic overlook. You can see every San Francisco neighborhood from this hilltop. And it's an easy drop into the Castro or the Mission from here for some good food, bars, and shopping.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.754625,
+            "long": -122.446414,
+            "details": ""
+          },
+          "times": {
+            "selected": 247
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "AF-P DX 18-55mm f/3.5-5.6G VR",
+            "filter": "N/A",
+            "tripod": ""
+          },
+          "exposure": {
+            "shutterSpeed": "1/250 sec",
+            "aperture": "f/8",
+            "iso": 100,
+            "focalLengthInMm": 18
+          }
+        },
+        {
+          "id": 23,
+          "title": "East Bay Bridge",
+          "subtitle": "from Tresure Island",
+          "imageKey": "img-23",
+          "lat": 37.81396,
+          "long": -122.37076,
+          "entranceFeeInDollars": 0,
+          "description": "I love venturing over to Yerba Buena and Treasure Island for the unique views of both San Francisco and Oakland. Drive around to the less-frequently visited east side of the island to line up this shot of the recently completed $6 billion east span of the Bay Bridge.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.817803,
+            "long": -122.372644,
+            "details": "From the parking area, cross the road and walk south along Treasure Island Rd on the left hand side of the road."
+          },
+          "months": {
+            "recommended": [3, 4, 5],
+            "details": "The sun rises directly over the South Bay Bridge tower around the 10th of April."
+          },
+          "times": {
+            "selected": 135
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "AF-P DX 18-55mm f/3.5-5.6G VR",
+            "tripod": "Manfrotto 190PRO w/ Manfrotto 229PRO head"
+          },
+          "exposure": {
+            "shutterSpeed": "5 sec",
+            "aperture": "f/7.1",
+            "iso": 100,
+            "focalLengthInMm": 32
+          }
+        },
+        {
+          "id": 24,
+          "title": "Bay Bridge Towers",
+          "subtitle": "from Harrison & Main",
+          "imageKey": "img-24",
+          "lat": 37.78808,
+          "long": -122.3904,
+          "entranceFeeInDollars": 0,
+          "description": "Reminiscent of that iconic shot of the Brooklyn Bridge from DUMBO, this one is all San Francisco. Get this unique angle by heading just a little south of the Ferry Building. Try a variation of this shot at night to capture The Bay Lights, a unique light show on the west span created by artist Leo Villareal.",
+          "months": {
+            "recommended": [5, 6, 7, 11, 12, 1],
+            "details": "The sun rises just to the right of the towers during the summer months. And the sunset golden hours light up the towers of the Bay Bridge during the winter months."
+          },
+          "times": {
+            "selected": 247
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "AF-P DX 18-55mm f/3.5-5.6G VR"
+          },
+          "exposure": {
+            "shutterSpeed": "1/500 sec",
+            "aperture": "f/5.6",
+            "iso": 100,
+            "focalLengthInMm": 55
+          }
+        },
+        {
+          "id": 25,
+          "title": "The Painted Ladies",
+          "subtitle": "from Alamo Square",
+          "imageKey": "img-25",
+          "lat": 37.775671,
+          "long": -122.433801,
+          "entranceFeeInDollars": 0,
+          "description": "The Painted Ladies is one of the most iconic postcards of San Francisco, made popular by the 90's TV show Full House.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.777307,
+            "long": -122.433222,
+            "details": "I usually start looking for parking on Steiner St. You can usually find parking along any of the roads bordering the park."
+          },
+          "months": {
+            "recommended": [5, 6, 7, 11, 12, 1],
+            "details": "The sun rises behind the city skyline during the summer months. And the sunset golden hours light up the city during the winter months."
+          },
+          "times": {
+            "selected": 247
+          },
+          "equipment": {
+            "camera": "Canon 5D Mark iii",
+            "lens": "EF 24-105mm f/4L IS USM"
+          },
+          "exposure": {
+            "shutterSpeed": "1/3200 sec",
+            "aperture": "f/5",
+            "iso": 100,
+            "focalLengthInMm": 100
+          }
+        },
+        {
+          "id": 26,
+          "title": "Looking down Market",
+          "subtitle": "from Twin Peaks",
+          "imageKey": "img-26",
+          "lat": 37.754199,
+          "long": -122.445862,
+          "description": "There are endless great perspectives of San Francisco from Twin Peaks. This eastward-facing shot looks straight down Market Street. This bustling throroughfare cuts San Francisco into two factions: the northern neighborhoods and SOMA. The north side has traditionally been the affluent commercial districts, while SOMA was once a bit more gritty. Try a misty morning here, or a glimmering night shot.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.754625,
+            "long": -122.446414,
+            "details": ""
+          },
+          "times": {
+            "selected": 246
+          },
+          "equipment": {
+            "camera": "Canon 5D Mark iii",
+            "lens": "EF 24-105mm f/4"
+          },
+          "exposure": {
+            "shutterSpeed": "1/400",
+            "aperture": "f/11",
+            "iso": 100,
+            "focalLengthInMm": 73
+          }
+        },
+        {
+          "id": 27,
+          "title": "Top of the Tiled Steps",
+          "subtitle": "from 15th Ave",
+          "imageKey": "img-27",
+          "lat": 37.756285, 
+          "long": -122.472768,
+          "description": "This shot is taken from the delightful Potrero Hill neighborhood, where you'll find some of the steepest streets in the world (also the world's most crooked. No, it's not Lombard Street!). This neighborhood has more charm than many. This view looks down on the Dogpatch neighboorhood - a historical ship building site.",
+          "months": {
+            "recommended": [8, 9, 10],
+            "details": "The sunrise lines up perfectly with the stairs around the 18th of September. And the sunset lines up perfectly with the stairs around the 30th of September."
+          },
+          "times": {
+            "selected": 34
+          },
+          "equipment": {
+            "camera": "Canon 5D Mark iii",
+            "lens": "EF 24-105mm f/4"
+          },
+          "exposure": {
+            "shutterSpeed": "1/600",
+            "aperture": "f/11",
+            "iso": 100,
+            "focalLengthInMm": 24
+          }
+        },
+        {
+          "id": 28,
+          "title": "Golden Gate Bridge",
+          "subtitle": "from Dove Loop",
+          "imageKey": "img-28",
+          "lat": 37.803713, 
+          "long": -122.477814,
+          "description": "Battery Godfrey has many great views of the Golden Gate Bridge. There are several spots to frame the bridge nicely between the iconic San Francisco Cypress trees.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.803883,
+            "long": -122.476637,
+            "details": ""
+          },
+          "months": {
+            "recommended": [11, 12, 1],
+            "details": "The winter sunset golden hours light up the towers of the Golden Gate Bridge beautifully."
+          },
+          "times": {
+            "selected": 224
+          },
+          "equipment": {
+            "camera": "Canon 5D Mark iii",
+            "lens": "EF 24-105mm f/4"
+          },
+          "exposure": {
+            "shutterSpeed": "1/250",
+            "aperture": "f/11",
+            "iso": 100,
+            "focalLengthInMm": 45
+          }
+        },
+        {
+          "id": 29,
+          "title": "Framing the Pyramid",
+          "subtitle": "from Osgood Pl",
+          "imageKey": "img-29",
+          "lat": 37.798184, 
+          "long": -122.403044,
+          "description": "If you’re exploring North Beach make sure to stop by to catch this view of the Transamerica Pyramid on Osgood Pl. Whether Karl the Fog is in town or the skies are clear, this is a unique photo op you won’t want to miss.",
+          "months": {
+            "recommended": [4, 5, 6, 7, 8],
+            "details": "The evening golden hour during these months light up the north face of the Transamerica Pyramid. "
+          },
+          "times": {
+            "selected": 240
+          },
+          "equipment": {
+            "camera": "Canon 5D Mark iii",
+            "lens": "EF 24-105mm f/4"
+          },
+          "exposure": {
+            "shutterSpeed": "1/80",
+            "aperture": "f/4",
+            "iso": 100,
+            "focalLengthInMm": 24
+          }
+        },
+        {
+          "id": 30,
+          "title": "Goldie and Karl",
+          "subtitle": "from Marine Dr",
+          "imageKey": "img-30",
+          "lat": 37.80919, 
+          "long": -122.475026,
+          "description": "Meet a little bit of Carl the Fog. He's hovering a bit higher than usual in this photo. San Francisco's fog can make for some incredible images, particularly when they're long-exposure night shots. This is taken from the edge of Crissy Field and Fort Point.",
+          "times": {
+            "selected": 240
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "Tokina 11-16mm f/2.8",
+            "tripod": "Manfrotto 190PRO & 229PRO"
+          },
+          "exposure": {
+            "shutterSpeed": "30 sec",
+            "aperture": "f/16",
+            "iso": 100,
+            "focalLengthInMm": 16
+          }
+        },
+        {
+          "id": 31,
+          "title": "Treasure Island Palms",
+          "subtitle": "from Treasure Island",
+          "imageKey": "img-31",
+          "lat": 37.817959, 
+          "long": -122.372897,
+          "description": "Treasure Island is just a few minutes from downtown San Francisco and can add a little LA vibe to your perspective with a sampling of palm trees. Treasure Island is only accessible by car from San Francisco, but there is no toll on the western span. If you are starting in Emeryville, you can ride a bike all the way out there.",
+          "times": {
+            "selected": 240
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "Nikon 18-55mm f/3.5-5.6"
+          },
+          "exposure": {
+            "shutterSpeed": "1/100",
+            "aperture": "f/11",
+            "iso": 100,
+            "focalLengthInMm": 18
+          }
+        },
+        {
+          "id": 32,
+          "title": "Bay Bridge Tower",
+          "subtitle": "from Treasure Island Rd",
+          "imageKey": "img-32",
+          "lat": 37.811094, 
+          "long": -122.371679,
+          "description": "This is another interesting view from Yerba Buena island. Cars and Coffee (a regular social gathering of rare and exotic cars) happens pretty regularly on the connected Treasure Island. I would love to catch a Ferrari or a vintage Porsche on this corner. See if you can get the shot!",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.817803,
+            "long": -122.372644,
+            "details": "Adventure at your own risk. This is somewhat of a dangerous walk from the parking area to the actual shooting location. From the parking area, walk south along Treasure Island Rd. There is a small trail on the right side of the road that takes you right to this spot."
+          },
+          "months": {
+            "recommended": [11, 12, 1, 2, 3],
+            "details": "The sunsets during these months light up the Bay Bridge tower beautifully"
+          },
+          "times": {
+            "selected": 240
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "Nikon 18-55mm f/3.5-5.6"
+          },
+          "exposure": {
+            "shutterSpeed": "1/200",
+            "aperture": "f/4",
+            "iso": 100,
+            "focalLengthInMm": 55
+          }
+        },
+        {
+          "id": 33,
+          "title": "Bay Bridge Tower",
+          "subtitle": "from Bay Bridge",
+          "imageKey": "img-33",
+          "lat": 37.805719, 
+          "long": -122.369793,
+          "entranceFeeInDollars": 5,
+          "description": "Don't try to take this while driving. Best taken as a passenger. If you're heading into San Francisco from Oakland on the Bay Bridge, this is a fun and easy shot to get, especially if you have a sunroof. The Bay Bridge is a 5 lane road, so get into the middle lane before you get to Yerba Buena Island. And remember to have at least $6 cash on you for the toll.",
+          "times": {
+            "selected": 28
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "Tokina 11-16mm f/2.8"
+          },
+          "exposure": {
+            "shutterSpeed": "1/1,600",
+            "aperture": "f/5",
+            "iso": 100,
+            "focalLengthInMm": 16
+          }
+        },
+        {
+          "id": 34,
+          "title": "The Painted Ladies",
+          "subtitle": "from Hayes & Steiner",
+          "imageKey": "img-34",
+          "lat": 37.775712, 
+          "long": -122.432967,
+          "description": "The Painted Ladies is one of the most iconic postcards of San Francisco, made popular by the 90's TV show Full House. ",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.777307,
+            "long": -122.433222,
+            "details": "I usually start looking for parking on Steiner St. You can usually find parking along any of the roads bordering the park."
+          },
+          "times": {
+            "selected": 56
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "Nikon 18-55mm f/3.5-5.6"
+          },
+          "exposure": {
+            "shutterSpeed": "1/1,000",
+            "aperture": "f/5",
+            "iso": 100,
+            "focalLengthInMm": 55
+          }
+        },
+        {
+          "id": 35,
+          "title": "Golden Gate Tower",
+          "subtitle": "from Golden Gate",
+          "imageKey": "img-35",
+          "lat": 37.813835, 
+          "long": -122.47786,
+          "entranceFeeInDollars": 8,
+          "description": "Don't try to take this while driving. Best taken as a passenger. Whether you’re heading North or South on the Golden Gate Bridge, this is a fun and easy shot to get, especially if you have a sunroof. Stay as close to the middle of the road as you can for the most symmetrical perspective. If you’re heading South you’ll need to pay an $8 automatic toll, no need to stop, just drive through the toll gate.",
+          "times": {
+            "selected": 28
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "Tokina 11-16mm f/2.8"
+          },
+          "exposure": {
+            "shutterSpeed": "1/800",
+            "aperture": "f/14",
+            "iso": 100,
+            "focalLengthInMm": 13
+          }
+        },
+        {
+          "id": 36,
+          "title": "Sutro Baths reflections",
+          "subtitle": "from Sutro Baths",
+          "imageKey": "img-36",
+          "lat": 37.780326, 
+          "long": -122.513822,
+          "description": "The reflections and rock island backdrop makes this a great spot for portrait photography. The ledges around the Sutro Baths ruins are fun to explore, but be safe and walk slowly as to not fall into the pools. Not fun.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.780354,
+            "long": -122.51058,
+            "details": ""
+          },
+          "months": {
+            "recommended": [3, 9],
+            "details": "The sun sets directly behind the rock islands around mid March and mid September."
+          },
+          "times": {
+            "selected": 240
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "Nikon 18-55mm f/3.5-5.6",
+            "tripod": "Manfrotto 190PRO & 229PRO"
+          },
+          "exposure": {
+            "shutterSpeed": "1/20",
+            "aperture": "f/11",
+            "iso": 100,
+            "focalLengthInMm": 40
+          }
+        },
+        {
+          "id": 37,
+          "title": "Transamerica Pyramid",
+          "subtitle": "from One Maritime Plaza",
+          "imageKey": "img-37",
+          "lat": 37.7956, 
+          "long": -122.39944,
+          "description": "This is one of my favorite parks to eat lunch at, and the views of the Transamerica Pyramid and Embarcadero Buildings are stunning.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.796039,
+            "long": -122.399237,
+            "details": "Parking can be tricky in the Financial District. I usually start by looking for parking on Washington St."
+          },
+          "months": {
+            "recommended": [2, 3, 10],
+            "details": "The sun sets directly behind the Transamerica Pyramid around the 1st of March and the 10th of October."
+          },
+          "times": {
+            "selected": 248
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "Tokina 11-16mm f/2.8"
+          },
+          "exposure": {
+            "shutterSpeed": "1/800",
+            "aperture": "f/3.5",
+            "iso": 100,
+            "focalLengthInMm": 14
+          }
+        },
+        {
+          "id": 38,
+          "title": "The Financial District",
+          "subtitle": "from Telegraph Hill",
+          "imageKey": "img-38",
+          "lat": 37.801742, 
+          "long": -122.405807,
+          "description": "Telegraph Hill has so many great photo ops, not to mention the views from the top of Coit Tower 😍. But this is one of my favorite perspectives of the two classic giants of the Financial District, the Transamerica Pyramid and the Bank of America building.",
+          "parking": {
+            "id": "park",
+            "isParking": true,
+            "lat": 37.802922,
+            "long": -122.406059,
+            "details": ""
+          },
+          "months": {
+            "recommended": [4, 5, 6, 7, 8],
+            "details": "The evening golden hour during these months light up the buildings in the Financial District."
+          },
+          "times": {
+            "selected": 240
+          },
+          "equipment": {
+            "camera": "Nikon D3200",
+            "lens": "Nikon 18-55mm f/3.5-5.6",
+            "tripod": "Manfrotto 190PRO & 229PRO"
+          },
+          "exposure": {
+            "shutterSpeed": "1/5",
+            "aperture": "f/3.5",
+            "iso": 100,
+            "focalLengthInMm": 18
+          }
+        },
+        {
+          "id": 39,
+          "title": "Bay Bridge & SF",
+          "subtitle": "from Yerba Buena Island",
+          "imageKey": "img-39",
+          "lat": 37.80776, 
+          "long": -122.36685,
+          "description": "Unfortunately, this area has been fenced off since 2017 :(.",
+          "disabled": true
+        },
+        {
+          "id": 40,
+          "title": "Spiral staircase",
+          "subtitle": "in the Mechanics Institute Building",
+          "imageKey": "img-40",
+          "lat": 37.788915, 
+          "long": -122.403013,
+          "closingTime": {
+            "hours": 17,
+            "minutes": 0,
+            "notes": ""
+          },
+          "description": "This beautiful spiral staircase is located in the San Francisco Mechanics Institute. The Institute itself is not accessible to the public, membership is required to enter the libraries, but if you just let the employee at the front desk know that you just want to photograph the stairs they will allow you in.",
+          "times": {
+            "selected": 8
+          },
+          "equipment": {
+            "camera": "iPhone 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "key": "sf-2",
+      "title": "Iconic San Francisco",
+      "subtitle": "Second!",
+      "description": "Second guide",
+      "location": {
+        "city": "San Francisco",
+        "state": "California",
+        "stateShort": "CA",
+        "country": "USA"
+      },
+      "author": {
+        "title": "@marcoolson",
+        "subtitle": "Marco Olson",
+        "key": "author-1"
+      },
+      "markers": []
+    },
+    {
+      "id": 3,
+      "key": "sf-3",
+      "title": "Iconic San Francisco",
+      "subtitle": "Second!",
+      "description": "Second guide",
+      "location": {
+        "city": "San Francisco",
+        "state": "California",
+        "stateShort": "CA",
+        "country": "USA"
+      },
+      "author": {
+        "title": "@marcoolson",
+        "subtitle": "Marco Olson",
+        "key": "author-1"
+      },
+      "markers": []
+    },
+    {
+      "id": 4,
+      "key": "sf-4",
+      "title": "Iconic San Francisco",
+      "subtitle": "Second!",
+      "description": "Second guide",
+      "location": {
+        "city": "San Francisco",
+        "state": "California",
+        "stateShort": "CA",
+        "country": "USA"
+      },
+      "author": {
+        "title": "@marcoolson",
+        "subtitle": "Marco Olson",
+        "key": "author-1"
+      },
+      "markers": []
+    },
+    {
+      "id": 5,
+      "key": "sf-5",
+      "title": "Iconic San Francisco",
+      "subtitle": "Second!",
+      "description": "Second guide",
+      "location": {
+        "city": "San Francisco",
+        "state": "California",
+        "stateShort": "CA",
+        "country": "USA"
+      },
+      "author": {
+        "title": "@marcoolson",
+        "subtitle": "Marco Olson",
+        "key": "author-1"
+      },
+      "markers": []
+    }
+  ]
+}

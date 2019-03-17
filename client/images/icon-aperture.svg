@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>icons/camera-aperture</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.4,8.5 L12.17,0.24 C11.47,0.09 10.75,0 10,0 C7.6,0 5.4,0.85 3.68,2.25 L7.34,8.6 L7.4,8.5 L7.4,8.5 Z M19.54,7 C18.62,4.08 16.39,1.74 13.54,0.66 L9.88,7 L19.54,7 L19.54,7 Z M19.8,8 L12.31,8 L12.6,8.5 L17.36,16.75 C19,14.97 20,12.61 20,10 C20,9.31 19.93,8.65 19.8,8 L19.8,8 Z M6.54,10 L2.64,3.25 C1.01,5.03 -4.4408921e-16,7.39 -4.4408921e-16,10 C-4.4408921e-16,10.69 0.07,11.35 0.2,12 L7.69,12 L6.54,10 L6.54,10 Z M0.46,13 C1.38,15.92 3.61,18.26 6.46,19.34 L10.12,13 L0.46,13 L0.46,13 Z M11.73,13 L7.83,19.76 C8.53,19.91 9.25,20 10,20 C12.4,20 14.6,19.15 16.32,17.75 L12.66,11.4 L11.73,13 L11.73,13 Z" id="path-1"></path>
+    </defs>
+    <g id="icons/camera-aperture" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="bounds" x="0" y="0" width="24" height="24"></rect>
+        <g id="colors/gray-04" transform="translate(2.000000, 2.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="colors/gray-03" style="mix-blend-mode: multiply;" mask="url(#mask-2)" fill="#767676">
+                <g transform="translate(-2.000000, -2.000000)" id="Rectangle-4">
+                    <rect x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

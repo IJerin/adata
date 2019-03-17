@@ -1,0 +1,400 @@
+/* ----------------------------------------------------------------------------- */
+/* import variables */
+
+@import "_sass-variables.scss";
+@import "_sass-typography.scss";
+@import "_sass-ui.scss";
+
+/* ----------------------------------------------------------------------------- */
+/* Typography */
+
+html,
+body
+{
+	/*height: 100%;*/
+	transition-timing-function: ease-out;
+	box-sizing: border-box;
+}
+
+/* ----------------------------------------------------------------------------- */
+/* --- sections --- */
+
+
+
+
+
+/* ----------------------------------------------------------------------------- */
+/* --- mobile header --- */
+
+.header
+{
+	height: 48px;
+	background: #fff;	
+	display: block;
+	position: fixed !important;
+	top: 0;
+	left: 0;
+	z-index: 1000;
+	border-bottom: 1px solid #efefef;
+
+	@media (min-width: $bp-md){
+		display: none;
+	}
+
+	.logo
+	{
+		width: 130px;
+		padding: 8px 0;
+	}
+
+	.menu
+	{
+		float: right;
+		padding: 12px 0;
+	}
+}
+
+
+
+/* ----------------------------------------------------------------------------- */
+/* --- nav --- */
+
+.nav
+{
+	display: none;
+	position: fixed;
+
+	@media (min-width: $bp-md){
+		display: inline-block;
+		width: 240px;
+	}
+
+	@media (min-width: $bp-lg){
+		width: 240px;
+	}
+
+	@media (min-width: $bp-xl){
+		width: 285px;
+	}
+
+}
+
+nav .logo
+{
+	width: 100%;
+	margin-bottom: 48px;	
+}
+
+	@media (min-width: $bp-md){
+		
+	}
+
+nav h5
+{
+	margin-bottom: 12px;
+}
+
+nav .nav-content
+{
+	background: $vf-gray-8;
+	height: 10000px;
+	padding: 30px;
+
+	@media (min-width: $bp-md){
+		padding-top: 48px;
+	}
+
+	@media (min-width: $bp-lg){
+		padding-top: 48px;
+	}
+
+}
+
+nav .save-exit
+{
+	margin-bottom: 4px;
+}
+
+
+
+/* ----------------------------------------------------------------------------- */
+/* --- content global --- */
+
+.content
+{
+	padding-top: 80px;
+	padding-bottom: 80px;
+
+	@media (min-width: $bp-md){
+		padding-top: 48px;
+		padding-bottom: 80px;
+	}
+
+	.title-desc
+	{
+		margin-bottom: 32px;
+
+		h3
+		{
+			margin-bottom: 8px;
+		}
+	}
+
+	.submit-bar
+	{
+		background: #fff;
+		border-top: 1px solid #efefef;
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		height: 72px;
+		width: 100%;
+
+		@media (min-width: $bp-md){
+			border-top: none;
+			position: relative;
+			height: 48px;
+			margin-bottom: 48px;
+		}
+
+		input
+		{
+			width: 100%;
+			margin-bottom: 48px;
+			margin: 12px 0;
+
+			@media (min-width: $bp-md){
+				margin: 0;
+			}
+		}
+	}
+}
+
+.drop-zone
+{
+	text-align: center;
+	border: 1px dashed $vf-teal-2;
+	border-radius: 4px;
+	margin-bottom: 8px;
+}
+
+
+
+/* ----------------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------------- */
+/* --- cover photo --- */
+/* ----------------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------------- */
+/* ----------------------------------------------------------------------------- */
+
+
+.li-cover-photo
+{
+	margin-bottom: 30px;
+	position: relative;
+
+	.cover-photo-container
+	{
+		width: 100%;
+		padding-top: 66.6666%;
+
+		.inner-content
+		{
+			width: 100%;
+			position: absolute;
+			text-align: center;
+
+			h4,p
+			{
+				color: $vf-teal-2;
+			}
+
+			h4
+			{
+				margin-bottom: 12px;
+
+				@media (min-width: $bp-md){
+					margin-bottom: 0px;
+				}
+			}
+
+			p
+			{
+				margin-bottom: 18px;
+			}
+
+		}
+
+		.inner-content.upload
+		{
+			top: 24%;
+			left: 0px;
+
+			@media (min-width: $bp-sm){
+				top: 32px;
+			}
+
+			@media (min-width: $bp-md){
+				top: 48px;
+			}
+
+			@media (min-width: $bp-lg){
+				top: 52px;
+			}
+
+			@media (min-width: $bp-xl){
+				top: 50px;
+			}
+
+			.upload-icon
+			{
+				width: 44px;
+				height: 32px;
+				margin-left: auto;
+				margin-right: auto;
+				margin-bottom: 2px;
+				position: relative;
+
+				@media (min-width: $bp-md){
+					margin-bottom: 4px;
+				}
+
+				@media (min-width: $bp-xl){
+					margin-bottom: 8px;
+					width: 50px;
+					height: 36px;	
+					margin-bottom: 8px;
+				}
+
+				img
+				{
+					width: 100%;
+				}
+			}
+
+			a
+			{
+				display: block;
+				margin-bottom: 8px;
+			}
+
+			.caption b
+			{
+				display: block;
+				margin-bottom: 8px;
+			}
+
+			.drag-content
+			{
+				display: none;
+
+				@media (min-width: $bp-md){
+					display: block;
+				}
+			}
+
+			.tap-content
+			{
+				display: block;
+				margin-bottom: 16px;
+
+				@media (min-width: $bp-md){
+					display: none;
+				}
+			}
+
+		}
+		/* end upload */
+
+
+
+		.inner-content.uploading
+		{
+			top: 24%;
+			left: 0px;
+			padding-left: 45px;
+			padding-right: 45px;
+
+			@media (min-width: $bp-sm){
+				top: 32px;
+			}
+
+			@media (min-width: $bp-md){
+				top: 60px;
+			}
+
+			@media (min-width: $bp-lg){
+				top: 72px;
+			}
+
+			@media (min-width: $bp-xl){
+				top: 72px;
+			}
+
+			h4
+			{
+				color: $vf-gray-1;
+				margin-bottom: 12px;
+			}
+
+			.progress-bar
+			{
+				background: $vf-gray-8;
+				padding: 2px;
+				width: 100%;
+				border-radius: 4px;
+				margin-bottom: 8px;
+
+				.progress-status
+				{
+					background: $vf-yellow-2;
+					height: 4px;
+					width: 25%;
+					border-radius: 4px;
+				}
+			}
+
+			.caption
+			{
+				margin-bottom: 32px;
+
+				@media (min-width: $bp-sm){
+					margin-bottom: 20px;
+					top: 32px;
+				}
+
+				@media (min-width: $bp-md){
+					margin-bottom: 32px;
+					top: 40px;
+				}
+			}
+		}
+		/* end uploading */
+
+		.uploaded
+		{
+			top: 0px;
+			left: 0px;
+			width: 100%;
+			padding-left: 15px;
+			padding-right: 15px;
+
+			img
+			{
+				width: 100%;
+				border-radius: 4px;
+			}
+		}
+		/* end uploaded */
+
+	}
+	/* end cover-photo-container */
+
+	.replace
+	{
+		display: block;
+		text-align: center;
+		margin-top: 12px;
+	}
+}

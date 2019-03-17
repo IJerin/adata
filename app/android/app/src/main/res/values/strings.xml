@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">108inmz3rIkvv8lUOSYslSOJGrYkd97b5a83-d18b-45c0-ade9-75380a6da2f1</string>
+    <string name="app_name">Viewfinder</string>
+</resources>

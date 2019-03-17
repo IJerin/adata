@@ -1,0 +1,52 @@
+{
+  "name": "viewfinder",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "Base64": "^1.0.1",
+    "buffer": "^5.1.0",
+    "invariant": "^2.2.2",
+    "npm": "^6.0.0",
+    "prop-types": "^15.5.10",
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.44.3",
+    "react-native-code-push": "^2.1.1-beta",
+    "react-native-device-info": "^0.9.0",
+    "react-native-exception-handler": "^2.3.0",
+    "react-native-google-analytics-bridge": "^5.3.3",
+    "react-native-hockeyapp": "^0.5.1",
+    "react-native-i18n": "^2.0.4",
+    "react-native-image-picker": "^0.26.10",
+    "react-native-keyboard-aware-scroll-view": "^0.2.9",
+    "react-native-linear-gradient": "^2.4.0",
+    "react-native-maps": "^0.15.0",
+    "react-native-parallax-scroll-view": "^0.20.1",
+    "react-native-restart": "0.0.3",
+    "react-native-router-flux": "4.0.0-beta.27",
+    "react-native-snap-carousel": "3.3.0",
+    "react-native-transformable-image": "0.0.18",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0",
+    "shitty-qs": "^1.0.1"
+  },
+  "devDependencies": {
+    "ajv": "^5.5.2",
+    "babel-jest": "19.0.0",
+    "babel-plugin-module-resolver": "~2.7.0",
+    "babel-preset-react-native": "1.9.1",
+    "eslint": "^4.14.0",
+    "eslint-config-airbnb": "^15.0.2",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.1.0",
+    "jest": "19.0.2",
+    "react-test-renderer": "16.0.0-alpha.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
